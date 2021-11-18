@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BedWarsGame">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Depends/CoinsAPI/LostBedWars.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
