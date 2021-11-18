@@ -1,0 +1,1851 @@
+Pets:
+  Cow:
+    Name: '&eКорова'
+    Material: LEATHER
+    Enabled: true
+    Lore:
+    - '&7Нажмите здесь, чтобы увидеть всех домашних'
+    - '&7животных в категории коров!'
+    Types:
+      Cow:
+        Name: '&aКорова'
+        Material: LEATHER
+        Mystery Dust: 20
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Корова'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Cow:
+        Name: '&9Корова (Малыш)'
+        Material: WHEAT
+        Mystery Dust: 25
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Корова (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Mushroom Cow:
+        Name: '&5Грибная корова'
+        Material: RED_MUSHROOM
+        Mystery Dust: 30
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Грибная корова'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Mushroom Cow:
+        Name: '&6Грибная корова (Малыш)'
+        Material: MUSHROOM_STEW
+        Mystery Dust: 35
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Гребная Корова (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+  Chicken:
+    Name: '&eКурица'
+    Material: EGG
+    Enabled: true
+    Lore:
+    - '&7Нажмите здесь, чтобы увидеть всех домашних'
+    - '&7животных в категории Курица!'
+    Types:
+      Chicken:
+        Name: '&aКурица'
+        Material: FEATHER
+        Mystery Dust: 0
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Курица'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Chicken:
+        Name: '&9Курица (Малыш)'
+        Material: WHEAT_SEEDS
+        Mystery Dust: 25
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Курица (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+  Wolf:
+    Name: '&eВолк'
+    Material: BONE
+    Enabled: true
+    Lore:
+    - '&7Нажмите здесь, чтобы увидеть всех домашних'
+    - '&7животных в категории Волк!'
+    Types:
+      Wolf:
+        Name: '&aВолк'
+        Material: BONE
+        Mystery Dust: 30
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Волк'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Wolf:
+        Name: '&9Wolf (Baby)'
+        Material: BONE_MEAL
+        Mystery Dust: 35
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Волк (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+  Pig:
+    Name: '&eСвинья'
+    Material: PORKCHOP
+    Enabled: true
+    Lore:
+    - '&7Нажмите здесь, чтобы увидеть всех домашних'
+    - '&7животных в категории Свинья!'
+    Types:
+      Pig:
+        Name: '&aСвинья'
+        Material: COOKED_PORKCHOP
+        Mystery Dust: 20
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Свинья'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Pig:
+        Name: '&9Свинья (Малыш)'
+        Material: CARROT
+        Mystery Dust: 25
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Свинья (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Pig Zombie:
+        Name: '&5СвиноЗомби'
+        Material: GOLD_INGOT
+        Mystery Dust: 45
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9СвиноЗомби'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Pig Zombie:
+        Name: '&6СвиноЗомби (Малыш)'
+        Material: GOLD_NUGGET
+        Mystery Dust: 45
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.5
+        Lore:
+        - '&7Тип: &9СвиноЗомби (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+  Silverfish:
+    Name: '&eРыба'
+    Material: SILVERFISH_SPAWN_EGG
+    Enabled: true
+    Lore:
+    - '&7Нажмите здесь, чтобы увидеть всех домашних'
+    - '&7животных в категории Рыба!'
+    Types:
+      Silverfish:
+        Name: '&aРыба'
+        Material: SILVERFISH_SPAWN_EGG
+        Mystery Dust: 0
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Рыба'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+  Endermite:
+    Name: '&eЭндермен'
+    Material: ENDERMITE_SPAWN_EGG
+    Enabled: true
+    Lore:
+    - '&7Нажмите здесь, чтобы увидеть всех домашних'
+    - '&7животных в категории Эндермен!'
+    Types:
+      Endermite:
+        Name: '&6Эндермен'
+        Material: ENDERMITE_SPAWN_EGG
+        Mystery Dust: 90
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Эндермен'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+  Zombie:
+    Name: '&eЗомби'
+    Material: ZOMBIE_HEAD
+    Enabled: true
+    Lore:
+    - '&7Нажмите здесь, чтобы увидеть всех домашних'
+    - '&7животных в категории Зомби!'
+    Types:
+      Zombie:
+        Name: '&aЗомби'
+        Material: ROTTEN_FLESH
+        Mystery Dust: 35
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Зомби'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Zombie:
+        Name: '&9Зомби (Малыш)'
+        Material: POTATO
+        Mystery Dust: 40
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.5
+        Lore:
+        - '&7Тип: &9Зомби (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Husk:
+        Name: '&9Зомби Житель'
+        Material: head:d674c63c8db5f4ca628d69a3b1f8a36e29d8fd775e1a6bdb6cabb4be4db121
+        Mystery Dust: 45
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Зомби Житель'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Husk:
+        Name: '&5Зомби Житель (Малыш)'
+        Material: head:d674c63c8db5f4ca628d69a3b1f8a36e29d8fd775e1a6bdb6cabb4be4db121
+        Mystery Dust: 50
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.5
+        Lore:
+        - '&7Тип: &9Зомби Житель (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Red Little Helper:
+        Name: '&5Красный Маленький Помощник'
+        Material: LEATHER_HELMET:#FF0000
+        Mystery Dust: 50
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.5
+        Lore:
+        - '&7Тип: &9Красный Маленький Помощник'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Green Little Helper:
+        Name: '&5Зеленый Маленький Помощник'
+        Material: LEATHER_HELMET:#00FF00
+        Mystery Dust: 50
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.5
+        Lore:
+        - '&7Тип: &9Зеленый Маленький Помощник'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+  Cat:
+    Name: '&eКот'
+    Material: COD
+    Enabled: true
+    Lore:
+    - '&7Нажмите здесь, чтобы увидеть всех домашних'
+    - '&7животных в категории Кот!'
+    Types:
+      Black Cat:
+        Name: '&aКот: Чёрный'
+        Material: BLACK_WOOL
+        Mystery Dust: 30
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Кот: Чёрный'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Black Cat:
+        Name: '&9Кот: Чёрный (Малыш)'
+        Material: BLACK_CARPET
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Кот: Чёрный (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Red Cat:
+        Name: '&aКот: Красный'
+        Material: RED_WOOL
+        Mystery Dust: 30
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Кот: Красный'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Red Cat:
+        Name: '&9Кот: Красный (Малыш)'
+        Material: RED_CARPET
+        Mystery Dust: 35
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Кот: Красный (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Siamese Cat:
+        Name: '&aКошка: Сиамская'
+        Material: GRAY_WOOL
+        Mystery Dust: 30
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Кошка: Сиамская'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Siamese Cat:
+        Name: '&9Кошка: Сиамская (Малыш)'
+        Material: GRAY_CARPET
+        Mystery Dust: 35
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Кошка: Сиамская (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Wild Ocelot:
+        Name: '&9Дикий Оцелот'
+        Material: ORANGE_WOOL
+        Mystery Dust: 40
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Дикий Оцелот'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Wild Ocelot:
+        Name: '&5Дикий Оцелот (Малыш)'
+        Material: ORANGE_CARPET
+        Mystery Dust: 45
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Дикий Оцелот (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+  Rabbit:
+    Name: '&eКролик'
+    Material: CARROT
+    Enabled: true
+    Lore:
+    - '&7Нажмите здесь, чтобы увидеть всех домашних'
+    - '&7животных в категории Кролик!'
+    Types:
+      Black Rabbit:
+        Name: '&9Кролик: Чёрный'
+        Material: head:72c58116a147d1a9a26269224a8be184fe8e5f3f3df9b61751369ad87382ec9
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.9
+        Lore:
+        - '&7Тип: &9Кролик: Чёрный'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Black Rabbit:
+        Name: '&5Кролик: Чёрный (Малыш)'
+        Material: CARROT
+        Mystery Dust: 35
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.9
+        Lore:
+        - '&7Тип: &9Кролик: Чёрный (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Black & White Rabbit:
+        Name: '&5Кролик: Чёрно-Белый'
+        Material: head:cb8cff4b15b8ca37e25750f345718f289cb22c5b3ad22627a71223faccc
+        Mystery Dust: 30
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.9
+        Lore:
+        - '&7Type: &9Кролик: Чёрно-Белый'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Black & White Rabbit:
+        Name: '&6Кролик: Чёрно-Белый (Малыш)'
+        Material: CARROT
+        Mystery Dust: 35
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.9
+        Lore:
+        - '&7Тип: &9Кролик: Чёрно-Белый (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Brown Rabbit:
+        Name: '&9Кролик: Коричневый'
+        Material: head:7d1169b2694a6aba826360992365bcda5a10c89a3aa2b48c438531dd8685c3a7
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.9
+        Lore:
+        - '&7Тип: &9Кролик: Коричневый'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Brown Rabbit:
+        Name: '&5Кролик: Коричневый (Малыш)'
+        Material: CARROT
+        Mystery Dust: 35
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.9
+        Lore:
+        - '&7Тип: &9Кролик: Коричневый (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Gold Rabbit:
+        Name: '&5Кролик: Золотой'
+        Material: head:c977a3266bf3b9eaf17e5a02ea5fbb46801159863dd288b93e6c12c9cb
+        Mystery Dust: 30
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.9
+        Lore:
+        - '&7Тип: &9Кролик: Золотой'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Gold Rabbit:
+        Name: '&6Кролик: Золотой (Малыш)'
+        Material: CARROT
+        Mystery Dust: 35
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.9
+        Lore:
+        - '&7Тип: &9Кролик: Золотой (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Salt & Pepper Rabbit:
+        Name: '&5Кролик: Соль и Перец'
+        Material: head:dc29aebe803e5d4dc3b010c9dd56444f863b2d86a6a2afd4a6a721748ba4fa
+        Mystery Dust: 30
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.9
+        Lore:
+        - '&7Тип: &9Кролик: Соль и Перец'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Salt & Pepper Rabbit:
+        Name: '&6Кролик: Соль и Перец (Малыш)'
+        Material: CARROT
+        Mystery Dust: 35
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.9
+        Lore:
+        - '&7Тип: &9Кролик: Соль и Перец (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      White Rabbit:
+        Name: '&9Кролик: Белый'
+        Material: head:374d8298797e712bb1f75ad6ffa7734ac4237ea69be1db92f0e41115a2c170cf
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.9
+        Lore:
+        - '&7Тип: &9Кролик: Белый'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby White Rabbit:
+        Name: '&5Кролик: Белый (Малыш)'
+        Material: CARROT
+        Mystery Dust: 35
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.9
+        Lore:
+        - '&7Тип: &9Кролик: Белый (Мальшь)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+  Sheep:
+    Name: '&eОвца'
+    Material: WHITE_WOOL
+    Enabled: true
+    Lore:
+    - '&7Нажмите здесь, чтобы увидеть всех домашних'
+    - '&7животных в категории Овца!'
+    Types:
+      Black Sheep:
+        Name: '&5Овца: Чёрная'
+        Material: BLACK_TERRACOTTA
+        Mystery Dust: 20
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Чёрная'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Black Sheep:
+        Name: '&6Овца: Чёрная (Малыш)'
+        Material: BLACK_WOOL
+        Mystery Dust: 25
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Чёрная (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Blue Sheep:
+        Name: '&9Овца: Голубая'
+        Material: BLUE_TERRACOTTA
+        Mystery Dust: 20
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Голубая'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Blue Sheep:
+        Name: '&5Овца: Голубая (Малыш)'
+        Material: BLUE_WOOL
+        Mystery Dust: 25
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Голубая (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Brown Sheep:
+        Name: '&aОвца: Коричневая'
+        Material: BROWN_TERRACOTTA
+        Mystery Dust: 20
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Коричневая'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Brown Sheep:
+        Name: '&9Овца: Коричневая (Малыш)'
+        Material: BROWN_WOOL
+        Mystery Dust: 25
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Коричневая (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Cyan Sheep:
+        Name: '&9Овца: Синия'
+        Material: CYAN_TERRACOTTA
+        Mystery Dust: 20
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Синия'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Cyan Sheep:
+        Name: '&5Овца: Синия (Малыш)'
+        Material: CYAN_WOOL
+        Mystery Dust: 25
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Синия (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Gray Sheep:
+        Name: '&aОвца: Серая'
+        Material: GRAY_TERRACOTTA
+        Mystery Dust: 20
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Серая'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Gray Sheep:
+        Name: '&9Овца: Серая (Малыш)'
+        Material: GRAY_WOOL
+        Mystery Dust: 25
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Серия (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Green Sheep:
+        Name: '&9Овца: Зелёная'
+        Material: GREEN_TERRACOTTA
+        Mystery Dust: 20
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Зелёная'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Green Sheep:
+        Name: '&5Овца: Зелёная (Малыш)'
+        Material: GREEN_WOOL
+        Mystery Dust: 25
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Зелёная (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Light Blue Sheep:
+        Name: '&9Овца: Светло-Голубая'
+        Material: LIGHT_BLUE_TERRACOTTA
+        Mystery Dust: 20
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Светло-Голубая'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Light Blue Sheep:
+        Name: '&5Овца: Светло-Голубая (Малыш)'
+        Material: LIGHT_BLUE_WOOL
+        Mystery Dust: 25
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Светло-Голубая (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Lime Sheep:
+        Name: '&9Овца: Лаймовая'
+        Material: LIME_TERRACOTTA
+        Mystery Dust: 20
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Лаймовая'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Lime Sheep:
+        Name: '&5Овца: Лаймовая (Малыш)'
+        Material: LIME_WOOL
+        Mystery Dust: 25
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Лаймовая (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Magenta Sheep:
+        Name: '&9Овца: Пурпурная'
+        Material: MAGENTA_TERRACOTTA
+        Mystery Dust: 20
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Пурпурная'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Magenta Sheep:
+        Name: '&5Овца: Пурпурная (Малыш)'
+        Material: MAGENTA_WOOL
+        Mystery Dust: 25
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Пурпурная (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Orange Sheep:
+        Name: '&9Овца: Оранжевая'
+        Material: ORANGE_TERRACOTTA
+        Mystery Dust: 20
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Оранжевая'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Orange Sheep:
+        Name: '&5Овца: Оранжевая (Малыш)'
+        Material: ORANGE_WOOL
+        Mystery Dust: 25
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Оранжевая (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Pink Sheep:
+        Name: '&5Овца: Розовая'
+        Material: PINK_TERRACOTTA
+        Mystery Dust: 20
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Розовая'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Pink Sheep:
+        Name: '&6Овца: Розовая (Малыш)'
+        Material: PINK_WOOL
+        Mystery Dust: 25
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Розовая (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Purple Sheep:
+        Name: '&9Овца: Фиолетовая'
+        Material: PURPLE_TERRACOTTA
+        Mystery Dust: 20
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Фиолетовая'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Purple Sheep:
+        Name: '&5Овца: Фиолетовая (Малыш)'
+        Material: PURPLE_WOOL
+        Mystery Dust: 25
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Фиолетовая (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Red Sheep:
+        Name: '&9Овца: Красная'
+        Material: RED_TERRACOTTA
+        Mystery Dust: 20
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Красная'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Red Sheep:
+        Name: '&5Овца: Красная (Малыш)'
+        Material: RED_WOOL
+        Mystery Dust: 25
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Красная (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Silver Sheep:
+        Name: '&aОвца: Светло-Серая'
+        Material: LIGHT_GRAY_TERRACOTTA
+        Mystery Dust: 20
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Светло-Серая'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Silver Sheep:
+        Name: '&9Овца: Светло-Серая (Малыш)'
+        Material: LIGHT_GRAY_WOOL
+        Mystery Dust: 25
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Светло-Серая (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      White Sheep:
+        Name: '&aОвца: Белая'
+        Material: WHITE_TERRACOTTA
+        Mystery Dust: 20
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Белая'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby White Sheep:
+        Name: '&9Овца: Белая (Малыш)'
+        Material: WHITE_WOOL
+        Mystery Dust: 25
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Белая (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Yellow Sheep:
+        Name: '&9Овца: Жёлтая'
+        Material: YELLOW_TERRACOTTA
+        Mystery Dust: 20
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Жёлтая'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Yellow Sheep:
+        Name: '&5Овца: Жёлтая (Малыш)'
+        Material: YELLOW_WOOL
+        Mystery Dust: 25
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Овца: Жёлтая (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+  Horse:
+    Name: '&eЛошадь'
+    Material: SADDLE
+    Enabled: true
+    Lore:
+    - '&7Нажмите здесь, чтобы увидеть всех домашних'
+    - '&7животных в категории Лошадь!'
+    Types:
+      Black Horse:
+        Name: '&5Лошадь: Чёрная'
+        Material: COAL
+        Mystery Dust: 40
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Лошадь: Чёрная'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Black Horse:
+        Name: '&6Лошадь: Чёрная (Малыш)'
+        Material: CHARCOAL
+        Mystery Dust: 45
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Лошадь: Чёрная (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Brown Horse:
+        Name: '&aЛошадь: Коричневая'
+        Material: BRICK
+        Mystery Dust: 40
+        Rarity: Common
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Лошадь: Коричневая'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Brown Horse:
+        Name: '&9Лошадь: Коричневая (Малыш)'
+        Material: COCOA_BEANS
+        Mystery Dust: 45
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Лошадь: Коричневая (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Chestnut Horse:
+        Name: '&9Лошадь: Каштановая'
+        Material: MELON_SEEDS
+        Mystery Dust: 40
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Лошадь: Каштановая'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Chestnut Horse:
+        Name: '&5Лошадь: Каштановая (Малыш)'
+        Material: PUMPKIN_SEEDS
+        Mystery Dust: 45
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Лошадь: Каштановая (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Creamy Horse:
+        Name: '&9Лошадь: Сливочная'
+        Material: MILK_BUCKET
+        Mystery Dust: 40
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Лошадь: Сливочная'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Creamy Horse:
+        Name: '&5Лошадь: Сливочная (Малыш)'
+        Material: SUGAR
+        Mystery Dust: 45
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Лошадь: Сливочная (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Dark Brown Horse:
+        Name: '&9Лошадь: тёмно-коричневая'
+        Material: DARK_OAK_LOG
+        Mystery Dust: 40
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Лошадь: тёмно-коричневая'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Dark Brown Horse:
+        Name: '&5Лошадь: тёмно-коричневая (Малыш)'
+        Material: DARK_OAK_PLANKS
+        Mystery Dust: 45
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Лошадь: тёмно-коричневая (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Gray Horse:
+        Name: '&9Лошадь: Серая'
+        Material: APPLE
+        Mystery Dust: 40
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Лошадь: Серая'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Gray Horse:
+        Name: '&5Лошадь: Серая (Малыш)'
+        Material: GRAY_DYE
+        Mystery Dust: 45
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Лошадь: Серая (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      White Horse:
+        Name: '&5Лошадь: Белая'
+        Material: QUARTZ_BLOCK
+        Mystery Dust: 40
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Лошадь: Белая'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby White Horse:
+        Name: '&6Лошадь: Белая (Малыш)'
+        Material: DIORITE
+        Mystery Dust: 45
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Лошадь: Белая (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Donkey:
+        Name: '&9Осел'
+        Material: LEATHER
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Осел'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Donkey:
+        Name: '&5Осел (Малыш)'
+        Material: CARROT
+        Mystery Dust: 35
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Осёл (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Mule:
+        Name: '&9Мул'
+        Material: COOKED_MUTTON
+        Mystery Dust: 30
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Мул'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Mule:
+        Name: '&5Мул (Малыш)'
+        Material: MUTTON
+        Mystery Dust: 35
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Мул (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Skeleton Horse:
+        Name: '&6Скелет Лошадь'
+        Material: BONE
+        Mystery Dust: 50
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Скелет Лошадь'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Skeleton Horse:
+        Name: '&6Скелет Лошадь (Малыш)'
+        Material: BONE_MEAL
+        Mystery Dust: 55
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Скелет Лошадь(Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Undead Horse:
+        Name: '&5Лошадь-Нежить'
+        Material: DARK_OAK_SAPLING
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Лошадь-Нежить'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Undead Horse:
+        Name: '&6Лошадь-Нежить (Малыш)'
+        Material: DEAD_BUSH
+        Mystery Dust: 55
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Лошадь-Нежить (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+  Villager:
+    Name: '&eЖитель'
+    Material: EMERALD
+    Enabled: true
+    Lore:
+    - '&7Нажмите здесь, чтобы увидеть всех домашних животных'
+    - '&7в категории сельских жителей!'
+    Types:
+      Blacksmith Villager:
+        Name: '&9Житель: Кузнец'
+        Material: IRON_ORE
+        Mystery Dust: 40
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Житель: Кузнец'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Blacksmith Villager:
+        Name: '&5Житель: Кузнец (Малыш)'
+        Material: IRON_INGOT
+        Mystery Dust: 45
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Житель: Кузнец (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Butcher Villager:
+        Name: '&9Житель: Мясник'
+        Material: IRON_AXE
+        Mystery Dust: 40
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Житель: Мясник'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Butcher Villager:
+        Name: '&5Житель: Мясник (Малыш)'
+        Material: WOODEN_AXE
+        Mystery Dust: 45
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Житель: Мясник (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Farmer Villager:
+        Name: '&9Житель: Фермер'
+        Material: IRON_HOE
+        Mystery Dust: 40
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Житель: Фермер'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Farmer Villager:
+        Name: '&5Житель: Фермер (Малыш)'
+        Material: WOODEN_HOE
+        Mystery Dust: 45
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Житель: Фермер (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Librarian Villager:
+        Name: '&9Житель: Библиотекарь'
+        Material: BOOKSHELF
+        Mystery Dust: 40
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Житель: Библиотекарь'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Librarian Villager:
+        Name: '&5Житель: Библиотекарь (Малыш)'
+        Material: BOOK
+        Mystery Dust: 45
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Житель: Библиотекарь (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Priest Villager:
+        Name: '&9Житель: Священник'
+        Material: WRITABLE_BOOK
+        Mystery Dust: 40
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Type: &9Житель: Священник'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Priest Villager:
+        Name: '&5Житель: Священник (Малыш)'
+        Material: MAP
+        Mystery Dust: 45
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Житель: Священник (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Zombie Villager:
+        Name: '&5Житель: Зомби'
+        Material: GOLDEN_APPLE
+        Mystery Dust: 50
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Житель: Зомби'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Zombie Villager:
+        Name: '&6Житель: Зомби (Малыш)'
+        Material: GOLDEN_HELMET
+        Mystery Dust: 55
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.5
+        Lore:
+        - '&7Тип: &Житель: Зомби (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Witch:
+        Name: '&5Ведьма'
+        Material: POTION:8196
+        Mystery Dust: 55
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Ведьма'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Evoker:
+        Name: '&6Вызыватель'
+        Material: head:4f6fb89d1c631bd7e79fe185ba1a6705425f5c31a5ff626521e395d4a6f7e2
+        Mystery Dust: 55
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Вызыватель'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Vindicator:
+        Name: '&6Защитник'
+        Material: head:4f6fb89d1c631bd7e79fe185ba1a6705425f5c31a5ff626521e395d4a6f7e2
+        Mystery Dust: 55
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Защитник'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Illusioner:
+        Name: '&6Иллюзионист'
+        Material: head:1c678c9f4c6dd4d991930f82e6e7d8b89b2891f35cba48a4b18539bbe7ec927
+        Mystery Dust: 60
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Иллюзионист'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+  Spider:
+    Name: '&eПаук'
+    Material: STRING
+    Enabled: true
+    Lore:
+    - '&7Нажмите здесь, чтобы увидеть всех домашних'
+    - '&7животных в категории Паук!'
+    Types:
+      Spider:
+        Name: '&5Паук'
+        Material: SPIDER_EYE
+        Mystery Dust: 30
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Паук'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Cave Spider:
+        Name: '&9Пещерный Паук'
+        Material: STRING
+        Mystery Dust: 35
+        Rarity: Rare
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Пещерный Паук'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+  Skeleton:
+    Name: '&eСкелет'
+    Material: BOW
+    Enabled: true
+    Lore:
+    - '&7Нажмите здесь, чтобы увидеть всех домашних'
+    - '&7животных в категории Скелет!'
+    Types:
+      Skeleton:
+        Name: '&5Скелет'
+        Material: BOW
+        Mystery Dust: 35
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Скелет'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Wither Skeleton:
+        Name: '&6Скелет Иссушитель'
+        Material: STONE_SWORD
+        Mystery Dust: 40
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Скелет Иссушитель'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Stray Skeleton:
+        Name: '&6Бродячий Скелет'
+        Material: head:78ddf76e555dd5c4aa8a0a5fc584520cd63d489c253de969f7f22f85a9a2d56
+        Mystery Dust: 45
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Бродячий Скелет'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+  Blaze:
+    Name: '&eИфрит'
+    Material: BLAZE_ROD
+    Enabled: true
+    Lore:
+    - '&7Нажмите здесь, чтобы увидеть всех домашних'
+    - '&7животных в категории Ифрит!'
+    Types:
+      Blaze:
+        Name: '&6Ифрит'
+        Material: BLAZE_ROD
+        Mystery Dust: 65
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Ифрит'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+  Creeper:
+    Name: '&eКрипер'
+    Material: CREEPER_HEAD
+    Enabled: true
+    Lore:
+    - '&7Нажмите здесь, чтобы увидеть всех домашних'
+    - '&7животных в категории Крипер!'
+    Types:
+      Creeper:
+        Name: '&5Крипер'
+        Material: GUNPOWDER
+        Mystery Dust: 50
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Крипер'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Powered Creeper:
+        Name: '&6Заряженый Крипер'
+        Material: TNT
+        Mystery Dust: 60
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.7
+        Lore:
+        - '&7Тип: &9Заряженый Крипер'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+  Golem:
+    Name: '&eГолем'
+    Material: head:89091d79ea0f59ef7ef94d7bba6e5f17f2f7d4572c44f90f76c4819a714
+    Enabled: true
+    Lore:
+    - '&7Нажмите здесь, чтобы увидеть всех домашних'
+    - '&7животных в категории Голем!'
+    Types:
+      Golem:
+        Name: '&6Голем'
+        Material: IRON_BLOCK
+        Mystery Dust: 65
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Голем'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+  Snowman:
+    Name: '&eСнеговик'
+    Material: SNOWBALL
+    Enabled: true
+    Lore:
+    - '&7Нажмите здесь, чтобы увидеть всех домашних'
+    - '&7животных в категории Снеговик!'
+    Types:
+      Snowman:
+        Name: '&5Снеговик'
+        Material: SNOWBALL
+        Mystery Dust: 45
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Снеговик'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+  Polar Bear:
+    Name: '&eПолярный Медведь'
+    Material: head:bab178f5cdd750f0e356860aa5539153eb2abec1e146ca57c65d25a5df8fdfe
+    Enabled: true
+    Lore:
+    - '&7Нажмите здесь, чтобы увидеть всех домашних'
+    - '&7животных в категории Полярный Медведь!'
+    Types:
+      Polar Bear:
+        Name: '&5Полярный Медведь'
+        Material: head:bab178f5cdd750f0e356860aa5539153eb2abec1e146ca57c65d25a5df8fdfe
+        Mystery Dust: 40
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Полярный Медведь'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Polar Bear:
+        Name: '&6Полярный Медведь (Малыш)'
+        Material: head:bab178f5cdd750f0e356860aa5539153eb2abec1e146ca57c65d25a5df8fdfe
+        Mystery Dust: 45
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.5
+        Lore:
+        - '&7Тип: &9Полярный Медведь (Мальшь)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+  Llama:
+    Name: '&eЛама'
+    Material: head:83d9b5915912ffc2b85761d6adcb428a812f9b83ff634e331162ce46c99e9
+    Enabled: true
+    Lore:
+    - '&7Нажмите здесь, чтобы увидеть всех домашних'
+    - '&7животных в категории Полярный Лама!'
+    Types:
+      Brown Llama:
+        Name: '&5Лама: Коричневая'
+        Material: head:c2b1ecff77ffe3b503c30a548eb23a1a08fa26fd67cdff389855d74921368
+        Mystery Dust: 50
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Лама: Коричневая'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Brown Llama:
+        Name: '&6Лама: Коричневая (Малыш)'
+        Material: head:c2b1ecff77ffe3b503c30a548eb23a1a08fa26fd67cdff389855d74921368
+        Mystery Dust: 55
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.5
+        Lore:
+        - '&7Тип: &9Лама: Коричневая (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Creamy Llama:
+        Name: '&5Лама: Светлая'
+        Material: head:80899acfebf947a0effc4022deb080543f7e389116bd4964c2c227ffa34a3375
+        Mystery Dust: 50
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Лама: Светлая'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Creamy Llama:
+        Name: '&6Лама: Светлая (Малыш)'
+        Material: head:80899acfebf947a0effc4022deb080543f7e389116bd4964c2c227ffa34a3375
+        Mystery Dust: 55
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.5
+        Lore:
+        - '&7Тип: &9Лама: Светлая (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Gray Llama:
+        Name: '&5Лама: Серая'
+        Material: head:cf24e56fd9ffd7133da6d1f3e2f455952b1da462686f753c597ee82299a
+        Mystery Dust: 50
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Лама: Серая'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby Gray Llama:
+        Name: '&6Лама: Серая (Малыш)'
+        Material: head:cf24e56fd9ffd7133da6d1f3e2f455952b1da462686f753c597ee82299a
+        Mystery Dust: 55
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.5
+        Lore:
+        - '&7Тип: &9Лама: Серая (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      White Llama:
+        Name: '&5Лама: Белая'
+        Material: head:83d9b5915912ffc2b85761d6adcb428a812f9b83ff634e331162ce46c99e9
+        Mystery Dust: 50
+        Rarity: Epic
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.6
+        Lore:
+        - '&7Тип: &9Лаба: Белая'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'
+      Baby White Llama:
+        Name: '&6Лама: Белая (Малыш)'
+        Material: head:83d9b5915912ffc2b85761d6adcb428a812f9b83ff634e331162ce46c99e9
+        Mystery Dust: 55
+        Rarity: Legendary
+        Enabled: true
+        CanBeFound: true
+        Purchasable: true
+        Move-Speed: 0.5
+        Lore:
+        - '&7Тип: &9Лама: Белая (Малыш)'
+        - ''
+        - '&7Нажмите, чтобы вызвать этого питомца.'

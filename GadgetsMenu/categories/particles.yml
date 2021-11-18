@@ -1,0 +1,232 @@
+Particles:
+  Water Splash:
+    Name: '&aЭффект Брызгов воды'
+    Material: NETHER_STAR
+    Mystery Dust: 0
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Отображение пользовательских эффектов'
+    - '&7Частицы брызгов воды вокруг вас в лобби'
+  Drip Water:
+    Name: '&9Капельный эффект воды'
+    Material: WATER_BUCKET
+    Mystery Dust: 40
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Отображение пользовательских эффектов'
+    - '&7Частицы воды вокруг вас в лобби'
+  Drip Lava:
+    Name: '&9Капельный Эффект Лавы'
+    Material: LAVA_BUCKET
+    Mystery Dust: 45
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Отображение пользовательских эффектов'
+    - '&7Частицы лавы вокруг вас в лобби'
+  Crit:
+    Name: '&9Критический Эффект'
+    Material: STONE_SWORD
+    Mystery Dust: 40
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Отображение пользовательского эффекта'
+    - '&7частицы вокруг вас в лобби'
+  Magic Crit:
+    Name: '&9Магический Критический Эффект'
+    Material: SPLASH_POTION:8204
+    Mystery Dust: 45
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Отображение пользовательского эффекта'
+    - '&7Критические частицы вокруг вас в лобби'
+  Spell:
+    Name: '&5Эффект заклинания'
+    Material: ENDER_CHEST
+    Mystery Dust: 50
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Отображение пользовательского эффекта'
+    - '&7частицы заклинаний вокруг вас в лобби'
+  Instant Spell:
+    Name: '&5Эффекты Мгновенного Заклинания'
+    Material: GHAST_TEAR
+    Mystery Dust: 50
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Отображение пользовательского эффекта'
+    - '&7Частицы заклинаний вокруг вас'
+  Mob Spell:
+    Name: '&5Эффект Заклинания Моба'
+    Material: EXPERIENCE_BOTTLE
+    Mystery Dust: 60
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Отображение пользовательского эффекта'
+    - '&7Частицы заклинаний вокруг вас в лобби'
+  Witch Spell:
+    Name: '&6Эффект Заклинания Ведьмы'
+    Material: POTION:8260
+    Mystery Dust: 60
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Отображение пользовательского эффекта'
+    - '&7Частицы заклинаний вокруг вас в лобби'
+  Angry Villager:
+    Name: '&5Сердитый Эффект Деревенского Жителя'
+    Material: FIRE_CHARGE
+    Mystery Dust: 65
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Отображение пользовательского эффекта'
+    - '&7Частицы заклинаний вокруг вас в лобби'
+  Happy Villager:
+    Name: '&5Счастливый Эффект Деревенского Жителя'
+    Material: EMERALD
+    Mystery Dust: 60
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Отображение пользовательского эффекта'
+    - '&7Частицы заклинаний вокруг вас в лобби'
+  Town Aura:
+    Name: '&aЭффект Ауры'
+    Material: MYCELIUM
+    Mystery Dust: 40
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Отображение пользовательского эффекта'
+    - '&7Частицы ауры вокруг вас в лобби'
+  Note:
+    Name: '&5Эффект примечания'
+    Material: NOTE_BLOCK
+    Mystery Dust: 60
+    Rarity: Epic
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Отображение пользовательского эффекта'
+    - '&7Частицы заклинаний вокруг вас в лобби'
+  Portal:
+    Name: '&aЭффект Портала'
+    Material: ENDER_PEARL
+    Mystery Dust: 45
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Отображение пользовательского эффекта'
+    - '&7Частицы портала вокруг вас в лобби'
+  Enchantment Table:
+    Name: '&9Эффект Таблиц Зачарования'
+    Material: ENCHANTING_TABLE
+    Mystery Dust: 55
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Отображение пользовательского эффекта'
+    - '&7Частицы таблицы вокруг вас в лобби'
+  Flame:
+    Name: '&6Эффект Пламени'
+    Material: GOLD_NUGGET
+    Mystery Dust: 50
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Отображение пользовательского эффекта'
+    - '&7Частицы пламени вокруг вас в лобби'
+  Redstone:
+    Name: '&6Эффект Редстоуна'
+    Material: REDSTONE
+    Mystery Dust: 55
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Отображение пользовательского эффекта'
+    - '&7Частицы редстоуна вокруг вас в лобби'
+  Heart:
+    Name: '&9Эффект Сердца'
+    Material: POPPY
+    Mystery Dust: 60
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Отображение пользовательского эффекта'
+    - '&7Частицы сердец вокруг вас в лобби'
+  Fireworks Spark:
+    Name: '&6Эффект Искры Фейерверка'
+    Material: FIREWORK_ROCKET
+    Mystery Dust: 45
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Отображение пользовательского эффекта'
+    - '&7Частицы искры Фейерверка вокруг вас в лобби'
+  Smoke:
+    Name: '&aЭффект Дыма'
+    Material: FIREWORK_STAR
+    Mystery Dust: 45
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Отображение пользовательского эффекта'
+    - '&7Частицы дыма вокруг вас в лобби'
+  Slime:
+    Name: '&aЭффект Слизи'
+    Material: SLIME_BALL
+    Mystery Dust: 55
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Отображение пользовательского эффекта'
+    - '&7Частицы слизи вокруг вас в лобби'

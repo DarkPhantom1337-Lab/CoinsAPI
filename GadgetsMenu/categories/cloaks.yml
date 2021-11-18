@@ -1,0 +1,102 @@
+Cloaks:
+  Superhero:
+    Name: '&6Плащ Супергероя'
+    Material: RED_DYE
+    Mystery Dust: 0
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Прямо из комиксов появляется'
+    - '&7этот фирменный красный плащ'
+  Mystical:
+    Name: '&6Мистический Плащ'
+    Material: BOOK
+    Mystery Dust: 35
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Окутанный тайной, этот плащ'
+    - '&7является центром многочисленных'
+    - '&7легенд, касающихся его силы'
+  Firewings:
+    Name: '&6Плащ Огненных Крыльев'
+    Material: BLAZE_POWDER
+    Mystery Dust: 50
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Восстань из пепла, как феникс,'
+    - '&7в этом проявлении пламени'
+  Vampire Wings:
+    Name: '&6Плащ с Крыльями Вампира'
+    Material: REDSTONE
+    Mystery Dust: 50
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Гигантские черные и красные крылья'
+    - '&7простираются от вашей спины,'
+    - '&7образуя угрожающие крылья вампира'
+  Frosty:
+    Name: '&6Морозный Плащ'
+    Material: SNOWBALL
+    Mystery Dust: 35
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Холод все равно менять некогда'
+    - '&7не беспокойтесь!'
+  Icewings:
+    Name: '&6Плащ Ледяных Крыльев'
+    Material: ICE
+    Mystery Dust: 50
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Это только мне кажется или '
+    - '&7здесь холодно?'
+  Shaman:
+    Name: '&6Шаманский плащ'
+    Material: BONE
+    Mystery Dust: 45
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Быть окруженным торнада,'
+    - '&7похожим на Торнадо Шамана'
+  Firerings:
+    Name: '&6Огненный Плащ'
+    Material: BLAZE_ROD
+    Mystery Dust: 45
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Будьте окружены пламенем, '
+    - '&7может быть, то, как вы идете,'
+    - '&7будет сожжено всё дотла.'
+  Scanner:
+    Name: '&6Плащ маскировка'
+    Material: BEACON
+    Mystery Dust: 55
+    Rarity: Legendary
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Lore:
+    - '&7Бип-Буп!'

@@ -1,0 +1,265 @@
+Emotes:
+  Smile:
+    Name: '&aЭмоция Улыбки'
+    Cooldown: 10
+    Mystery Dust: 0
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fулыбка'
+    Lore:
+    - '&7Чувствуешь себя прекрасно?'
+    - '&7Покажите миру, насколько вы '
+    - '&7счастливы с этой анимированной'
+    - '&7эмоцией улыбки!'
+  Cool:
+    Name: '&aКрутая Эмоция'
+    Cooldown: 10
+    Mystery Dust: 45
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fB)'
+    Lore:
+    - '&7Чувствуешь себя самым крутым котом '
+    - '&7на сервере? Выставьте напоказ'
+    - '&7свои вещи с помощью этой анимированной'
+    - '&7Крутой эмоции!'
+  Wink:
+    Name: '&aЭмоция подмигивания'
+    Cooldown: 10
+    Mystery Dust: 45
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fwinks'
+    Lore:
+    - '&7Веселишься? Дайте кому-нибудь'
+    - '&7знать, что вы в курсе шутки '
+    - '&7с этой анимированной эмоцией'
+    - '&7эмоции!'
+  Grin:
+    Name: '&aЭмоция усмешки'
+    Cooldown: 10
+    Mystery Dust: 45
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fУра!'
+    Lore:
+    - '&7Если вы чувствуете себя потрясающе,'
+    - '&7нет лучшего способа показать это,'
+    - '&7чем с помощью этой анимированной'
+    - '&7эмоции усмешки!'
+  Surprised:
+    Name: '&aУдивленная Эмоция'
+    Cooldown: 10
+    Mystery Dust: 45
+    Rarity: Common
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fО, МОЙ БОГ'
+    Lore:
+    - '&7Вас что-то шокировало?'
+    - '&7Сообщите об этом в лобби с '
+    - '&7помощью этой анимированной'
+    - '&7удивленной эмоции!'
+  Cry:
+    Name: '&9Эмоция Плача'
+    Cooldown: 10
+    Mystery Dust: 45
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fВааааа!'
+    Lore:
+    - '&7Тебе грустно? Пролей слезы '
+    - '&7с этой анимированной'
+    - '&7эмоцией плача!'
+  Sleepy:
+    Name: '&9Сонная Эмоция'
+    Cooldown: 10
+    Mystery Dust: 45
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fZZzzzz'
+    Lore:
+    - '&7SНе спал всю ночь, играя'
+    - '&7в свою любимую игру? Засыпайте'
+    - '&7с этой анимированной'
+    - '&7сонной эмоцией!'
+  Rage:
+    Name: '&9Эмоция ярости'
+    Cooldown: 10
+    Mystery Dust: 45
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&cГРРРРР!!!'
+    Lore:
+    - '&7Что-то кипит в твоей крови?'
+    - '&7Выпустите пар с помощью этой'
+    - '&7анимированной эмоции ярости!'
+  Frown:
+    Name: '&9Эмоция Хмурого взгляда'
+    Cooldown: 10
+    Mystery Dust: 45
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fсопение'
+    Lore:
+    - '&7Тебя что-то расстроило? Пусть'
+    - '&7мир узнает об этом с помощью этой'
+    - '&7анимированной эмоции хмурого взгляда!'
+  Cheeky:
+    Name: '&9Дерзкая Эмоция'
+    Cooldown: 10
+    Mystery Dust: 45
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&f:P'
+    Lore:
+    - '&7Замышляешь какую-нибудь пакость?'
+    - '&7Предупредите всех, как вы себя'
+    - '&7чувствуете с этой анимированной'
+    - '&7дерзкой эмоцией!'
+  Sun Tan:
+    Name: '&9Эмоция Солнечного Загара'
+    Cooldown: 10
+    Mystery Dust: 45
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fСолнечный'
+    Lore:
+    - '&7Ты забыл свой крем от загара?'
+    - '&7Пусть другие знают, насколько'
+    - '&7вы хрустящие с этой эмоцией загара'
+  Heart Eyes:
+    Name: '&9Эмоция Сердечного Взгляда'
+    Cooldown: 10
+    Mystery Dust: 45
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&d❤  ❤'
+    Lore:
+    - '&7Хорошо себя чувствуешь?'
+    - '&7Распространяйте хорошие эмоции'
+    - '&7с помощью этой эмоции!'
+  Dizzy:
+    Name: '&9Головокружительная Эмоция'
+    Cooldown: 10
+    Mystery Dust: 45
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fx_x'
+    Lore:
+    - '&7Американские горки не для тебя?'
+    - '&7Покажите другим, что вы чувствуете'
+    - '&7с помощью эмоции головокружения'
+  RIP:
+    Name: '&9RIP Эмоция'
+    Cooldown: 10
+    Mystery Dust: 45
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fОтдых В Пепперони'
+    Lore:
+    - '&7Вы получил этот последний удар?'
+    - '&7Проявите милосердие к своим'
+    - '&7противникам с этим Отдыхом в'
+    - '&7эмоциии Пепперони!!!'
+  Relax:
+    Name: '&9Эмоция Расслабления'
+    Cooldown: 10
+    Mystery Dust: 45
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fФух'
+    Lore:
+    - '&7Чувствуешь себя уютно? Вы наверняка'
+    - '&7будете с эмоцией расслабления!'
+  Spicy:
+    Name: '&9Пикантная Эмоция'
+    Cooldown: 10
+    Mystery Dust: 45
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fОжоги!'
+    Lore:
+    - '&7Этот перец хабанеро до'
+    - '&7тебя добрался? Дайте знать'
+    - '&7остальным с помощью этой!'
+    - '&7пикантной эмоции'
+  Deal With It:
+    Name: '&9Реальная Эмоция'
+    Cooldown: 10
+    Mystery Dust: 45
+    Rarity: Rare
+    Enabled: true
+    CanBeFound: true
+    Purchasable: true
+    Hologram:
+      Enabled: true
+      Text: '&fсправиться с этим :)'
+    Lore:
+    - '&7Тебе не хочется покрасоваться? '
+    - '&7Позвольте другим увидеть, как круто'
+    - '&7вы себя чувствуете, когда дело касается'
+    - '&7реальных эмоций!'
